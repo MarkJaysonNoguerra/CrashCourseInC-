@@ -1,0 +1,5 @@
+C:\Users\lenovo\Desktop\WebDevelopment\C#_Introduction\Numbers\Numbers\bin\Debug\Numbers.exe.config
+C:\Users\lenovo\Desktop\WebDevelopment\C#_Introduction\Numbers\Numbers\bin\Debug\Numbers.exe
+C:\Users\lenovo\Desktop\WebDevelopment\C#_Introduction\Numbers\Numbers\bin\Debug\Numbers.pdb
+C:\Users\lenovo\Desktop\WebDevelopment\C#_Introduction\Numbers\Numbers\obj\Debug\Numbers.exe
+C:\Users\lenovo\Desktop\WebDevelopment\C#_Introduction\Numbers\Numbers\obj\Debug\Numbers.pdb

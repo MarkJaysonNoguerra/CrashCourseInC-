@@ -1,0 +1,5 @@
+C:\Users\lenovo\Desktop\WebDevelopment\C#_Introduction\Variables\Variables\bin\Debug\Variables.exe.config
+C:\Users\lenovo\Desktop\WebDevelopment\C#_Introduction\Variables\Variables\bin\Debug\Variables.exe
+C:\Users\lenovo\Desktop\WebDevelopment\C#_Introduction\Variables\Variables\bin\Debug\Variables.pdb
+C:\Users\lenovo\Desktop\WebDevelopment\C#_Introduction\Variables\Variables\obj\Debug\Variables.exe
+C:\Users\lenovo\Desktop\WebDevelopment\C#_Introduction\Variables\Variables\obj\Debug\Variables.pdb

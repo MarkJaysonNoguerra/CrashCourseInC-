@@ -1,0 +1,5 @@
+C:\Users\lenovo\Desktop\WebDevelopment\C#_Introduction\Strings\Strings\bin\Debug\Strings.exe.config
+C:\Users\lenovo\Desktop\WebDevelopment\C#_Introduction\Strings\Strings\bin\Debug\Strings.exe
+C:\Users\lenovo\Desktop\WebDevelopment\C#_Introduction\Strings\Strings\bin\Debug\Strings.pdb
+C:\Users\lenovo\Desktop\WebDevelopment\C#_Introduction\Strings\Strings\obj\Debug\Strings.exe
+C:\Users\lenovo\Desktop\WebDevelopment\C#_Introduction\Strings\Strings\obj\Debug\Strings.pdb

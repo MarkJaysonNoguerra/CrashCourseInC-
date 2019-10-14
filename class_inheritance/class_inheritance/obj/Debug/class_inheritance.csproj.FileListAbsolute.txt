@@ -1,0 +1,5 @@
+C:\Users\lenovo\Desktop\WebDevelopment\C#_Introduction\class_inheritance\class_inheritance\bin\Debug\class_inheritance.exe.config
+C:\Users\lenovo\Desktop\WebDevelopment\C#_Introduction\class_inheritance\class_inheritance\bin\Debug\class_inheritance.exe
+C:\Users\lenovo\Desktop\WebDevelopment\C#_Introduction\class_inheritance\class_inheritance\bin\Debug\class_inheritance.pdb
+C:\Users\lenovo\Desktop\WebDevelopment\C#_Introduction\class_inheritance\class_inheritance\obj\Debug\class_inheritance.exe
+C:\Users\lenovo\Desktop\WebDevelopment\C#_Introduction\class_inheritance\class_inheritance\obj\Debug\class_inheritance.pdb

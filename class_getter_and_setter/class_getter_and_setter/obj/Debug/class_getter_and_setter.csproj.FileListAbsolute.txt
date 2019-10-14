@@ -1,0 +1,5 @@
+C:\Users\lenovo\Desktop\WebDevelopment\C#_Introduction\class_getter_and_setter\class_getter_and_setter\bin\Debug\class_getter_and_setter.exe.config
+C:\Users\lenovo\Desktop\WebDevelopment\C#_Introduction\class_getter_and_setter\class_getter_and_setter\bin\Debug\class_getter_and_setter.exe
+C:\Users\lenovo\Desktop\WebDevelopment\C#_Introduction\class_getter_and_setter\class_getter_and_setter\bin\Debug\class_getter_and_setter.pdb
+C:\Users\lenovo\Desktop\WebDevelopment\C#_Introduction\class_getter_and_setter\class_getter_and_setter\obj\Debug\class_getter_and_setter.exe
+C:\Users\lenovo\Desktop\WebDevelopment\C#_Introduction\class_getter_and_setter\class_getter_and_setter\obj\Debug\class_getter_and_setter.pdb

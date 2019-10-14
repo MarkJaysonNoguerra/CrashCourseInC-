@@ -1,0 +1,5 @@
+C:\Users\lenovo\Desktop\WebDevelopment\C#_Introduction\while_loops\while_loops\bin\Debug\while_loops.exe.config
+C:\Users\lenovo\Desktop\WebDevelopment\C#_Introduction\while_loops\while_loops\bin\Debug\while_loops.exe
+C:\Users\lenovo\Desktop\WebDevelopment\C#_Introduction\while_loops\while_loops\bin\Debug\while_loops.pdb
+C:\Users\lenovo\Desktop\WebDevelopment\C#_Introduction\while_loops\while_loops\obj\Debug\while_loops.exe
+C:\Users\lenovo\Desktop\WebDevelopment\C#_Introduction\while_loops\while_loops\obj\Debug\while_loops.pdb

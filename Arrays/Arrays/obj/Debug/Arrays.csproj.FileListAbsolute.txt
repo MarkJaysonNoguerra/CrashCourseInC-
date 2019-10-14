@@ -1,0 +1,5 @@
+C:\Users\lenovo\Desktop\WebDevelopment\C#_Introduction\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\lenovo\Desktop\WebDevelopment\C#_Introduction\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\lenovo\Desktop\WebDevelopment\C#_Introduction\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\lenovo\Desktop\WebDevelopment\C#_Introduction\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\lenovo\Desktop\WebDevelopment\C#_Introduction\Arrays\Arrays\obj\Debug\Arrays.pdb
